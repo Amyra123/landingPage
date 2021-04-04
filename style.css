@@ -22,7 +22,7 @@ background-color: hsl(257, 40%, 49%);
       ". . . . footer";
       /* grid-column-gap: 0.5rem; */
       grid-row-gap: 1rem;
-      background-image: url(/images/bg-desktop.svg);
+      background-image: url(https://amyra123.github.io/landingPage/images/bg-desktop.svg);
       background-repeat: no-repeat;
       background-size: cover;
 }
